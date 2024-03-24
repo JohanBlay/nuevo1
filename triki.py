@@ -1,3 +1,5 @@
+#JOHAN BRICEÑO
+#SEGUNDO SEMESTRE (CREACION REPOSITORIO)
 from tkinter import *
 from tkinter import messagebox
 from tkinter import simpledialog
